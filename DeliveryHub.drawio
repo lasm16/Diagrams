@@ -7,15 +7,8 @@
         <mxCell id="iHn_JyhEu61HY-NtkQgD-12" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="8cfasEk38QPf9qrvFkaU-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHn_JyhEu61HY-NtkQgD-29" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" target="iHn_JyhEu61HY-NtkQgD-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="330" />
-              <mxPoint x="400" y="390" />
-              <mxPoint x="460" y="390" />
-              <mxPoint x="460" y="830" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_y13UiyRBsidY2JGkPA_-101" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="iHn_JyhEu61HY-NtkQgD-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-41" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
           <mxGeometry height="200" width="200" x="120" y="230" as="geometry" />
@@ -54,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-45" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="API Gateway" vertex="1">
-          <mxGeometry height="80" width="80" x="450" y="295" as="geometry" />
+          <mxGeometry height="80" width="80" x="480" y="295" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-49" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Auth Service&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="600" y="70" as="geometry" />
@@ -72,10 +65,10 @@
           <mxGeometry height="80" width="80" x="600" y="295" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-52" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Notification Service&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="600" y="500" as="geometry" />
+          <mxGeometry height="80" width="80" x="600" y="400" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-54" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; Analytics Service&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="600" y="590" as="geometry" />
+          <mxGeometry height="80" width="80" x="600" y="500" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kafka" vertex="1">
           <mxGeometry height="360" width="120" x="960" y="200" as="geometry" />
@@ -93,13 +86,13 @@
           <mxGeometry height="90" width="80" x="860" y="300" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-74" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PostgresDB" vertex="1">
-          <mxGeometry height="90" width="80" x="850" y="785" as="geometry" />
+          <mxGeometry height="90" width="80" x="850" y="710" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-84" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PostgresDB" vertex="1">
           <mxGeometry height="90" width="80" x="970" y="15" as="geometry" />
         </mxCell>
         <mxCell id="iHn_JyhEu61HY-NtkQgD-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Review &amp;amp; Rating Service&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="600" y="690" as="geometry" />
+          <mxGeometry height="80" width="80" x="600" y="600" as="geometry" />
         </mxCell>
         <mxCell id="iHn_JyhEu61HY-NtkQgD-13" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8cfasEk38QPf9qrvFkaU-70">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHn_JyhEu61HY-NtkQgD-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Chat Service&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="600" y="790" as="geometry" />
+          <mxGeometry height="80" width="80" x="600" y="715" as="geometry" />
         </mxCell>
         <mxCell id="_y13UiyRBsidY2JGkPA_-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="Conversation" vertex="1">
           <mxGeometry height="241" width="180" x="270" y="1080" as="geometry" />
@@ -320,9 +313,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_y13UiyRBsidY2JGkPA_-90" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Roboto, -apple-system, BlinkMacSystemFont, Apple Color Emoji, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot;&gt;Redis&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="730" y="790" as="geometry" />
+          <mxGeometry height="80" width="80" x="730" y="715" as="geometry" />
         </mxCell>
         <mxCell id="_y13UiyRBsidY2JGkPA_-94" edge="1" parent="1" source="_y13UiyRBsidY2JGkPA_-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8cfasEk38QPf9qrvFkaU-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_y13UiyRBsidY2JGkPA_-95" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PostgresDB" vertex="1">
+          <mxGeometry height="90" width="80" x="850" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="_y13UiyRBsidY2JGkPA_-96" edge="1" parent="1" source="iHn_JyhEu61HY-NtkQgD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="_y13UiyRBsidY2JGkPA_-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
