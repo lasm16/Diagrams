@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2175" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-45" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="API Gateway" vertex="1">
           <mxGeometry height="80" width="80" x="530" y="385.05" as="geometry" />
-        </mxCell>
-        <mxCell id="uH7MIwMmt_L1YIjdu5OZ-4" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uH7MIwMmt_L1YIjdu5OZ-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-49" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Auth Service&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="650" y="160.05" as="geometry" />
@@ -79,7 +76,7 @@
           <mxGeometry height="90" width="80" x="900" y="19.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="8cfasEk38QPf9qrvFkaU-84" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PostgresDB" vertex="1">
-          <mxGeometry height="90" width="80" x="1020" y="150.05" as="geometry" />
+          <mxGeometry height="90" width="80" x="900" y="155.05" as="geometry" />
         </mxCell>
         <mxCell id="iHn_JyhEu61HY-NtkQgD-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Feedback Service&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="650" y="690.05" as="geometry" />
@@ -870,9 +867,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uH7MIwMmt_L1YIjdu5OZ-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Roboto, -apple-system, BlinkMacSystemFont, Apple Color Emoji, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif&quot;&gt;Redis&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="780" y="160.05" as="geometry" />
-        </mxCell>
         <object label="OrderService" id="uH7MIwMmt_L1YIjdu5OZ-6">
           <mxCell parent="1" style="swimlane;startSize=23;" vertex="1">
             <mxGeometry height="395" width="610" x="1330" y="930" as="geometry" />
@@ -1079,10 +1073,7 @@
         <mxCell id="uH7MIwMmt_L1YIjdu5OZ-58" edge="1" parent="1" source="8cfasEk38QPf9qrvFkaU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8cfasEk38QPf9qrvFkaU-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="200.05" />
-              <mxPoint x="750" y="260.05" />
-              <mxPoint x="875" y="260.05" />
-              <mxPoint x="875" y="195.05" />
+              <mxPoint x="900" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
